@@ -54,6 +54,17 @@
     .col-4 img{
         width: 100%;
     }
+    .col-6{
+        flex-basis: 80%;
+    }
+    .col-6 h3{
+        text-align: center;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .col-6 li{
+        font-size: 1em;
+    }
     .footer .col-3{
         width: 100%;
         flex-basis: 100%;
